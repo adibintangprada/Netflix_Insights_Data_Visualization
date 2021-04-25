@@ -12,3 +12,7 @@ These are some data visualization i made from netflix insights :
 * Most Common Countries in Netflix Platform
 
 P.S You need to install wordcloud to be able to run the last 2 visualizations
+
+## Dataset
+Original dataset source :<br>
+https://www.kaggle.com/shivamb/netflix-shows
